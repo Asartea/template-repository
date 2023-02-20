@@ -6,5 +6,8 @@
     "eslint-plugin-import": "^2.27.5",
     "prettier": "2.8.4",
     "tailwindcss": "^3.2.6"
+  },
+  "dependencies": {
+    "rippleui": "^1.9.0"
   }
 }
